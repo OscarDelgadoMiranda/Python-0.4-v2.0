@@ -1,2 +1,2 @@
 # Python-0.4-v2.0
-Codigo del Seminario 3 adaptado al del grupo 6
+Código del Seminario 3 adaptando el código del grupo 6 al nuestro
